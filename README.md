@@ -1,4 +1,16 @@
 ### Hi there 👋
+👋 Hi, I’m @BaftjarT
+
+👀 I’m interested in integration operations and cloud development.
+
+🌱 I’m currently learning more about DevOps and cloud architecture.
+
+💞️ I’m looking to collaborate on open-source projects related to integration operations.
+
+📫 How to reach me: 
+- Email: baftjar.tabaku@outlook.com
+- LinkedIn: Baftjar Tabaku
+- Personal website: [btabaku.co](https://www.btabaku.co/)
 
 <!--
 **BTabaku/BTabaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
