@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hi, I’m @BaftjarT
+👋 Hi, I’m @BTabaku
 
 👀 I’m interested in integration operations and cloud development.
 
@@ -9,8 +9,8 @@
 
 📫 How to reach me: 
 - Email: baftjar.tabaku@outlook.com
-- LinkedIn: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku)
-- Personal website: [btabaku.co](https://www.btabaku.co/)
+- LinkedIn: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku){:target="_blank"}
+- Personal website: [btabaku.co](https://www.btabaku.co/){:target="_blank"}
 
 <!--
 **BTabaku/BTabaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
