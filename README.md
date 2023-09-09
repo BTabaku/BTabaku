@@ -9,8 +9,8 @@
 
 📫 How to reach me: 
 - Email: baftjar.tabaku@outlook.com
-- LinkedIn: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku){:target="_blank"}
-- Personal website: [btabaku.co](https://www.btabaku.co/){:target="_blank"}
+- LinkedIn: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku)
+- Personal website: [btabaku.co](https://www.btabaku.co/)
 
 <!--
 **BTabaku/BTabaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
