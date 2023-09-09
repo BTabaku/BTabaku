@@ -9,7 +9,7 @@
 
 📫 How to reach me: 
 - Email: baftjar.tabaku@outlook.com
-- LinkedIn: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku/)
+- LinkedIn: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku)
 - Personal website: [btabaku.co](https://www.btabaku.co/)
 
 <!--
