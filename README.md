@@ -1,28 +1,18 @@
-### Hi there 👋
-👋 Hi, I’m @BTabaku
+### Welcome! 👋
 
-👀 I’m interested in integration operations and cloud development.
+I'm **Baftjar Tabaku (@BTabaku)**, a dedicated professional with a strong passion for **integration operations** and **cloud development**. 🚀
 
-🌱 I’m currently learning more about DevOps and cloud architecture.
+- 🌱 **Current Focus**: I’m continuously expanding my expertise in **DevOps** and **cloud architecture**, staying ahead with the latest trends and best practices in the field. 
+- 🤝 **Collaboration**: Open to partnering on **open-source projects** related to **integration operations**, and eager to contribute to impactful initiatives.
 
-💞️ I’m looking to collaborate on open-source projects related to integration operations.
+📫 **How to reach me**:  
+- ✉️ **Email**: [baftjar.tabaku@outlook.com](mailto:baftjar.tabaku@outlook.com)  
+- 💼 **LinkedIn**: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku)  
+- 🌐 **Personal Website**: [btabaku.nl](https://www.btabaku.nl/)  
 
-📫 How to reach me: 
-- Email: baftjar.tabaku@outlook.com
-- LinkedIn: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku)
-- Personal website: [btabaku.co](https://www.btabaku.co/)
+Let's connect and collaborate on innovative, forward-thinking projects! 🌟
 
-<!--
-**BTabaku/BTabaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+**BTabaku/BTabaku** is a special repository focused on integration and cloud technologies. 
+Join me in exploring, building, and pushing boundaries in tech! 
 -->
