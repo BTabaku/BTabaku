@@ -8,7 +8,7 @@ I'm **Baftjar Tabaku (@BTabaku)**, a dedicated professional with a strong passio
 📫 **How to reach me**:  
 - ✉️ **Email**: [baftjar.tabaku@outlook.com](mailto:baftjar.tabaku@outlook.com)  
 - 💼 **LinkedIn**: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku)  
-- 🌐 **Personal Website**: [btabaku.nl](https://www.btabaku.nl/)  
+- 🌐 **Personal Website**: [btabaku.nl](https://btabaku.nl/)  
 
 Let's connect and collaborate on innovative, forward-thinking projects! 🌟
 
