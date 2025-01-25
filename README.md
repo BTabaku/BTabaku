@@ -6,7 +6,7 @@ I'm **Baftjar Tabaku (@BTabaku)**, a dedicated professional with a strong passio
 - 🤝 **Collaboration**: Open to partnering on **open-source projects** related to **integration operations**, and eager to contribute to impactful initiatives.
 
 📫 **How to reach me**:  
-- ✉️ **Email**: [baftjar.tabaku@outlook.com](mailto:baftjar.tabaku@outlook.com)  
+- ✉️ **Email**: [bafti@btabaku.nl](mailto:bafti@btabaku.nl)  
 - 💼 **LinkedIn**: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku)  
 - 🌐 **Personal Website**: [btabaku.nl](https://btabaku.nl/)  
 
