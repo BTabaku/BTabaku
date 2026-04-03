@@ -8,6 +8,6 @@ I'm **Bafti (@BTabaku)**, an Integration Developer and Operations specialist wit
 📫 **Contact Me**:  
 - ✉️ **Email**: [bafti@btabaku.info](mailto:bafti@btabaku.info)  
 - 💼 **LinkedIn**: [Baftjar Tabaku](https://www.linkedin.com/in/baftjar-tabaku)  
-- 🌐 **Personal Website**: [btabaku.info](https://btabaku.info/)
+- 🌐 **Personal Website**: [btabaku.com](https://btabaku.com/)
 
 Let's collaborate on building innovative, high-performance solutions for the future of integration and cloud technologies! 🚀
